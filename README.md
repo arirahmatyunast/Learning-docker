@@ -13,3 +13,8 @@ menjalankan image dan container dengan nama go-app
 cek log container 
 
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4232b14f-6600-4574-ba94-b76a963661b4/90fbad1b-4764-4e1a-8123-8d0a77b159e0/Untitled.png)
+
+hasil bisa dilihat di localhost:5555
+
+<img width="233" alt="image" src="https://github.com/arirahmatyunast/Learning-docker/assets/48561574/6a555eb1-1b37-424e-9a9a-c9caf0593d96">
+
