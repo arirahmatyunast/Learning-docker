@@ -1,20 +1,22 @@
-membuat image dengan nama my-go-app dengan tag v2
+membuat image 
+<img width="590" alt="membuat image" src="https://github.com/arirahmatyunast/Learning-docker/assets/48561574/200951ca-f5eb-4485-a619-033f403695a8">
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4232b14f-6600-4574-ba94-b76a963661b4/a66d04c4-3d45-4f4b-a55c-37d43c032b53/Untitled.png)
+hasil image 
+<img width="763" alt="hasil image" src="https://github.com/arirahmatyunast/Learning-docker/assets/48561574/5e5aa0ce-5e3d-493d-913f-b4f857cc5cfa">
 
-image dengan nama my-go-app
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4232b14f-6600-4574-ba94-b76a963661b4/d075b56a-5aec-4551-bd65-319af05bb48a/Untitled.png)
+membuat container 
+<img width="560" alt="membuat container" src="https://github.com/arirahmatyunast/Learning-docker/assets/48561574/0e6c5d53-eea8-432a-924f-9a2dcf985fad">
 
-menjalankan image dan container dengan nama go-app
+hasil container 
+<img width="751" alt="container" src="https://github.com/arirahmatyunast/Learning-docker/assets/48561574/cc9e2d4a-48ea-4d78-8c3f-33ef26875e78">
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4232b14f-6600-4574-ba94-b76a963661b4/84d384f0-227c-410f-9db2-2df45d725cc6/Untitled.png)
+membuka dengan localhost 5555 lewat docker destop
+<img width="313" alt="buka localhost" src="https://github.com/arirahmatyunast/Learning-docker/assets/48561574/84f23aff-9937-4a3d-99b3-21d9c99b2def">
 
-cek log container 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4232b14f-6600-4574-ba94-b76a963661b4/90fbad1b-4764-4e1a-8123-8d0a77b159e0/Untitled.png)
 
-hasil bisa dilihat di localhost:5555
 
-<img width="233" alt="image" src="https://github.com/arirahmatyunast/Learning-docker/assets/48561574/6a555eb1-1b37-424e-9a9a-c9caf0593d96">
+
+
 
